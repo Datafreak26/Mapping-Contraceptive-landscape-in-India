@@ -7,3 +7,13 @@
 # **Business Problem**<br>
 #### A pharmaceutical company planning to enter India's contraceptive market needs to understand regional differences in contraceptive use and preferences to identify potential market opportunities.  The company needs to understand state-level differences  , the distribution of methods used, and variations across demographic groups to prioritize target markets and product opportunities.<br>
 ---
+# **Dataset overview**<br>
+
+|Attribute|Description|
+|---------|-----------|
+|Source| |
+|Geographic coverage| |
+|Time period| |
+|Observations| |
+|Key variables| |
+|File format| |
