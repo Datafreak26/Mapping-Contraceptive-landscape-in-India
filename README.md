@@ -11,9 +11,9 @@
 
 |Attribute|Description|
 |---------|-----------|
-|Source| |
-|Geographic coverage| |
-|Time period| |
+|Source|Ministry of Health and Family Welfare [India Data Portal](https://indiadataportal.com/p/national-family-health-survey-nfhs/r/mohfw-nfhs-dt-qq-eie) |
+|Geographic coverage|Districts across India |
+|Time period|2015-2016 , 2019-2021 , 2023-2024 |
 |Observations| |
-|Key variables| |
-|File format| |
+|Key variables|state_name, district_name,year,family_planning_any_method, family_planning_any_modern_method, family_planning_any_traditional_method,family_planning_condom, family_planning_pill, family_planning_iud_postpartum_iud, family_planning_injectables, family_planning_female_sterilization, family_planning_male_sterilization,family_planning_unmet_need_total, family_planning_unmet_need_limiting, family_planning_unmet_need_spacing,family_planning_users_told_side_effects, family_planning_health_worker_talked_nonusers |
+|File format|CSV |
