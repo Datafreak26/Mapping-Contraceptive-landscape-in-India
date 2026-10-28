@@ -20,10 +20,10 @@
 
 ---
 # **Key Questions**<br>
-Q1. Which type of contraceptive method is most commonly used across different regions?
-Q2. Which top 5 states and districts have the highest and lowest modern contraception use?
-Q3. How does the modern contraception method vary across regions?
-Q4. What are the top 3 choices in modern contraceptive methods used?
-Q5. Which regions have high unmet need and low modern contraception?
-Q6. Does contraceptive method changed across the available time period?<br>
+#### Q1. Which type of contraceptive method is most commonly used across different regions?
+#### Q2. Which top 5 states and districts have the highest and lowest modern contraception use?
+#### Q3. How does the modern contraception method vary across regions?
+#### Q4. What are the top 3 choices in modern contraceptive methods used?
+#### Q5. Which regions have high unmet need and low modern contraception?
+#### Q6. Does contraceptive method changed across the available time period?
 ---
